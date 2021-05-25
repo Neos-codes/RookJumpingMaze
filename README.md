@@ -7,7 +7,7 @@ By Fabián Cid
 ## How to run (in bash):
 g++ main.cpp -o maze.exe
 
-./maze.exe < input
+./maze.exe < tests/input
 ## Input
 7 integers following the next order:
 
