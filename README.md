@@ -46,6 +46,8 @@ Input:
 
 4 1 4 3 2
 
+0
+
 Output:
 
 13 (steps to reach solution)
