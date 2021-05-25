@@ -1,12 +1,13 @@
-# AI
-All homeworks from AI course, Universidad de Concepción, 2021-1
 ## Homework 1: Rook Jumping Maze (C++)
+First homework from AI course, Universidad de Concepción, 2021-1
+
 Solution implemented with BFS
+
 By Fabián Cid
 ## How to run (in bash):
 g++ main.cpp -o maze.exe
 
-./maze.exe < input
+./maze.exe < tests/input
 ## Input
 7 integers following the next order:
 
@@ -44,6 +45,8 @@ Input:
 4 2 3 3 3
 
 4 1 4 3 2
+
+0
 
 Output:
 
