@@ -191,7 +191,7 @@ int JumpingMaze::Backtracking(){
             steps++;
         }
         // Para imprimir el camino desde el nodo inicial
-        PrintPath();
+        //PrintPath();
         return steps;
     }
 
