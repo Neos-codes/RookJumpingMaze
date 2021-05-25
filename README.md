@@ -1,5 +1,5 @@
 # AI
-All homeworks from AI course, Universidad de Concepción, 2021-1
+First homework from AI course, Universidad de Concepción, 2021-1
 ## Homework 1: Rook Jumping Maze (C++)
 Solution implemented with BFS
 By Fabián Cid
