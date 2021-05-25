@@ -1,7 +1,8 @@
-# AI
-First homework from AI course, Universidad de Concepción, 2021-1
 ## Homework 1: Rook Jumping Maze (C++)
+First homework from AI course, Universidad de Concepción, 2021-1
+
 Solution implemented with BFS
+
 By Fabián Cid
 ## How to run (in bash):
 g++ main.cpp -o maze.exe
