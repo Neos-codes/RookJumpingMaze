@@ -25,7 +25,7 @@ column of goal position
 
 0
 
-Note_1: n x m are the dimensions of the matrix, 0 indicates the end of the input
+Note_1: n x m are the dimensions of the maze (matrix), 0 indicates the end of the input
 
 Note_2: You can enter as many matrices as you want, the number 0 indicates the end of the input, you can see the file "input" where are 3 matrix at the time
 
