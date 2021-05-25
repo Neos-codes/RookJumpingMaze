@@ -1,7 +1,7 @@
 ## Homework 1: Rook Jumping Maze (C++)
 First homework from AI course, Universidad de Concepción, 2021-1
 
-Solution implemented with BFS
+Solution implemented using BFS
 
 By Fabián Cid
 ## How to run (in bash):
