@@ -9,8 +9,6 @@ g++ main.cpp -o maze.exe
 
 ./maze.exe < tests/input
 ## Input
-7 integers following the next order:
-
 n
 
 m
@@ -23,9 +21,11 @@ row of goal position
 
 column of goal position
 
+n x m Maze
+
 0
 
-Note_1: n x m are the dimensions of the maze (matrix), 0 indicates the end of the input
+Note_1: 0 indicates the end of the input
 
 Note_2: You can enter as many matrices as you want, the number 0 indicates the end of the input, you can see the file "tests/input" where are 3 matrix at the time
 
